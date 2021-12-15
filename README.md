@@ -4,9 +4,4 @@ Data Scientist / Machine Learning Engineer with a keen interest in artficial int
 
 A Medium blog is also in the roadmap and will be used for new eager learners, people interested in my research and to reinforce to recruiters my technical knowledge.
 
-Machine Learning          -     https://github.com/eoin-james/MachineLearning
-Deep Learning             -     https://github.com/eoin-james/DeepLearning
-Reinforcement Learning    -     https://github.com/eoin-james/ReinforcementLearning
-NLP                       -     https://github.com/eoin-james/NaturalLanguageProcessing
-
 My email address is eoinmc.james@gmail.com 
