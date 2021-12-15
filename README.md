@@ -1,7 +1,7 @@
 Hi my name is Eoin Mc Allister. 
 
-I am currently pursuing my Masters degree in Computer Science (Artificial Intellignce) in NUI Galway Ireland and hope to graduate in August 2021. I completed my Bachelors Degree in Computer and Communication Engineering in 2020 In Dublin Institute of Technology.
+Data Scientist / Machine Learning Engineer with a keen interest in artficial intelligence (particularly deep reinforcment learning and natural language processing with neural networks). As of December 2021 I've decided to build a new Portfolio to showcase my skills in a variety of areas, each sectioned off by a different repo here on my GitHub. This portfolio is being designed in a manner to showcase my in-depth and diverse knowledge of different algorithms, toolkits etc.
 
-I am currently working on a project which aims to improve exploration in deep reinforcement learning using evolutionary algorithms to gather experience similarly to that in distributed rl algorithms. The evolutionary algorithms scoring mechanism takes ideas from novelty search and DeepMinds Never Give Up model to generate a diverse set of experiences which are both goal and curiosty driven. 
+A Medium blog is also in the roadmap and will be used for new eager learners, people interested in my research and to reinforce to recruiters my technical knowledge.
 
 My email address is eoinmc.james@gmail.com 
