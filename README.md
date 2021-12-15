@@ -4,4 +4,5 @@ Data Scientist / Machine Learning Engineer with a keen interest in artficial int
 
 A Medium blog is also in the roadmap and will be used for new eager learners, people interested in my research and to reinforce to recruiters my technical knowledge.
 
-My email address is eoinmc.james@gmail.com 
+My email address is eoinmc.james@gmail.com
+LinkedIn - https://www.linkedin.com/in/eoin-mcallister-ml/
