@@ -1,9 +1,13 @@
 Hi my name is Eoin Mc Allister. 
 
-Mac Projects is where I will be posting about my projects in a tutorial like style. This will allow me to show off my skills and researh whilst also letting people learn.
+I am a ML / Software Engineer with a MSc in Computer Science (AI). I graduated with a First Class Honours from NUIG Ireland in 2021. My main area of interest was Deep Reinforcement Learning in which I wrote a highly graded thesis on.
 
-My website is (will be) https://www.mcproai.com
+Ive created Mac Projects as a place to show off my skills and research in a tutorial like style.
+
+
+My website is https://www.mcproai.com
 My Medium URL is https://medium.com/@Mac_Projects
 
-My email address is eoinmc.james@gmail.com
-LinkedIn - https://www.linkedin.com/in/eoin-mcallister-ml/
+Feel free to contact me at either my email or LinkedIn:
+- eoinmc.james@gmail.com
+- https://www.linkedin.com/in/eoin-mcallister-ml/
