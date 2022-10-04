@@ -9,11 +9,11 @@ Ive created Mac Projects as a place to show off my skills and research in a tuto
 I will have 4 main repos:
 - [RL World](https://github.com/eoin-james/RL_World) - Everything Reinforcement Learning
 - [NLP World](https://github.com/eoin-james/NLP_World) - Everything NLP
-- CV World - Everything Computer Vision
+- [CV World](https://github.com/eoin-james/CV_World) - Everything Computer Vision
 - [DL World](https://github.com/eoin-james/DL_World) - All the DL models used in the above repos and more
 
 And then some extra in:
-- More Projects - Everything else such as DSA work and projects for my website
+- [More Projects](https://github.com/eoin-james/More_Projects) - Everything else such as DSA work and projects for my website
 
 My website is https://www.mcproai.com
 My Medium URL is https://medium.com/@Mac_Projects
