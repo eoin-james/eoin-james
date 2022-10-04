@@ -10,6 +10,9 @@ I will have 4 main repos:
 - RL World - Everything Reinforcement Learning
 - NLP World - Everything NLP
 - CV World - Everything Computer Vision
+- DL World - All the DL models used in the above repos and more
+
+And then some extra in:
 - More Projects - Everything else such as DSA work and projects for my website
 
 My website is https://www.mcproai.com
