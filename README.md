@@ -7,10 +7,10 @@ I am a ML / Software Engineer with a MSc in Computer Science (AI). I graduated w
 Ive created Mac Projects as a place to show off my skills and research in a tutorial like style. This project started in Autumn of 2022 so lots of content is on the way!
 
 I will have 4 main repos:
-- RL World - Everything Reinforcement Learning
-- NLP World - Everything NLP
+- [RL World](https://github.com/eoin-james/RL_World) - Everything Reinforcement Learning
+- [NLP World](https://github.com/eoin-james/NLP_World) - Everything NLP
 - CV World - Everything Computer Vision
-- DL World - All the DL models used in the above repos and more
+- [DL World](https://github.com/eoin-james/DL_World) - All the DL models used in the above repos and more
 
 And then some extra in:
 - More Projects - Everything else such as DSA work and projects for my website
