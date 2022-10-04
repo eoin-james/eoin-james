@@ -15,9 +15,9 @@ I will have 4 main repos:
 And then some extra in:
 - [More Projects](https://github.com/eoin-james/More_Projects) - Everything else such as DSA work and projects for my website
 
-My website is https://www.mcproai.com
-My Medium URL is https://medium.com/@Mac_Projects
+My [Website](https://www.mcproai.com)
+My [Medium](https://medium.com/@Mac_Projects)
 
 Feel free to contact me at either my email or LinkedIn:
 - eoinmc.james@gmail.com
-- https://www.linkedin.com/in/eoin-mcallister-ml/
+- [LinkedIn](https://www.linkedin.com/in/eoin-mcallister-ml/)
