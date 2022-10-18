@@ -6,14 +6,12 @@ I am a ML / Software Engineer with a MSc in Computer Science (AI). I graduated w
 
 Ive created Mac Projects as a place to show off my skills and research in a tutorial like style. This project started in Autumn of 2022 so lots of content is on the way!
 
-I will have 4 main repos:
+Here are links to the repos:
+- [More Projects](https://github.com/eoin-james/More_Projects) - Everything else such as DSA work and projects for my website
+- [DL World](https://github.com/eoin-james/DL_World) - All the DL models used in the above repos and more
 - [RL World](https://github.com/eoin-james/RL_World) - Everything Reinforcement Learning
 - [NLP World](https://github.com/eoin-james/NLP_World) - Everything NLP
 - [CV World](https://github.com/eoin-james/CV_World) - Everything Computer Vision
-- [DL World](https://github.com/eoin-james/DL_World) - All the DL models used in the above repos and more
-
-And then some extra in:
-- [More Projects](https://github.com/eoin-james/More_Projects) - Everything else such as DSA work and projects for my website
 
 My [Website](https://www.mcproai.com)
 My [Medium](https://medium.com/@Mac_Projects)
