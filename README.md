@@ -11,3 +11,6 @@ Ive created Mac Projects as a place to show off my skills and research. This ver
 Feel free to contact me at either my email or LinkedIn:
 - eoinmc.james@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/eoin-mcallister-ml/)
+
+
+N.B. Projects without some sort of presentable data are not commited to public
