@@ -1,5 +1,7 @@
 Hi my name is Eoin Mc Allister and welcome to my GitHub. 
 
+(Lots of content set to Private)
+
 I am a ML / Software Engineer with a MSc in Computer Science (AI). I graduated with a First Class Honours from NUIG Ireland in 2021. My main area of interest was Deep Reinforcement Learning in which I wrote a highly graded thesis on.
 
 I now focus Deep Learning and some Finance projects
